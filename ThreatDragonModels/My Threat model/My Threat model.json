@@ -1,0 +1,11 @@
+{
+  "summary": {
+    "title": "My Threat model",
+    "owner": "davihern",
+    "description": "An imaginary app"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": []
+  }
+}
