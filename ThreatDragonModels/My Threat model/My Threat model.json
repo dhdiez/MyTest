@@ -102,6 +102,8 @@
               "id": "24b86867-456d-4b59-84a4-8521d08d34a3",
               "z": 2,
               "hasOpenThreats": false,
+              "isALog": true,
+              "storesCredentials": true,
               "attrs": {
                 ".element-shape": {
                   "class": "element-shape hasNoOpenThreats isInScope"
